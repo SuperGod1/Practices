@@ -1,2 +1,4 @@
 # Practices
-All possible practices
+All possible practices....and
+
+Continue learning Python for Data Science!
