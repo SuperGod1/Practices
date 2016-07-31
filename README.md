@@ -1,0 +1,2 @@
+# Practices
+All possible practices
